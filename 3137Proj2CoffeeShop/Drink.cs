@@ -1,4 +1,9 @@
-﻿using System;
+﻿/**
+ * Program Name: Drink.cs
+ * Authors: Thushar Joseph Joji, Manny Bagheri
+ * Date: July 19, 2025
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
